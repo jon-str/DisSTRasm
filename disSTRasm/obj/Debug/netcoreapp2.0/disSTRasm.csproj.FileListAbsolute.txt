@@ -1,0 +1,11 @@
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\bin\Debug\netcoreapp2.0\disSTRasm.deps.json
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\bin\Debug\netcoreapp2.0\disSTRasm.runtimeconfig.json
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\bin\Debug\netcoreapp2.0\disSTRasm.runtimeconfig.dev.json
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\bin\Debug\netcoreapp2.0\disSTRasm.dll
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\bin\Debug\netcoreapp2.0\disSTRasm.pdb
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.csprojResolveAssemblyReference.cache
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.csproj.CoreCompileInputs.cache
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.AssemblyInfoInputs.cache
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.AssemblyInfo.cs
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.dll
+C:\_SOURCE_\csharp-dotNET\disSTRasm\disSTRasm\disSTRasm\obj\Debug\netcoreapp2.0\disSTRasm.pdb
